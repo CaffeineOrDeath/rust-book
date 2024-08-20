@@ -50,3 +50,14 @@ just the one's I've noticed.
 If you're really struggling to figure out if you should give Rust a try,
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWR3NnFleXVlMDM5OGEzb3o3NWkyN3R5bDByaDRyY3VqazU3bDVzZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GcSqyYa2aF8dy/giphy.gif" alt="JUST DO IT!" width=450/>
+
+### Building
+
+```sh
+git clone https://github.com/wjorden/rust-book
+cd rust-book
+[ls to see the different projects]
+cd <project>
+cargo run
+[help will automatically print]
+```
