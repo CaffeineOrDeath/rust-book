@@ -12,14 +12,13 @@ in 80x40), requesting more memory has a few more steps for non-root users
 ## Plan
 
 The idea with this one is to start with a simple TODO CLI program. This means
-its needs:
-    New (new list)
-    Add (add item to list)
-    Complete (check off item)
-    Delete (remove a list)
-
+its needs:  
+    New (new list)  
+    Add (add item to list)  
+    Complete (check off item)  
+    Delete (remove a list)  
+  
 This will start off simple:
-
 ```sh
 todo new <list>
 todo add <list> <task>
