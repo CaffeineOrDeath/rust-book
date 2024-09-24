@@ -54,7 +54,7 @@ If you're really struggling to figure out if you should give Rust a try,
 ### Building
 
 ```sh
-git clone https://github.com/wjorden/rust-book
+git clone https://github.com/CaffeineOrDeath/rust-book
 cd rust-book
 [ls to see the different projects]
 cd <project>
